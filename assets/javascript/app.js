@@ -13,27 +13,27 @@ $(document).ready(function () {
       question: "What does STS9 stand for?",
       answer: ["Sound Tribe Sector Nine", "Sound Time Soulstice Nine", "Safe Time Simple Nine", "Sound Tech Sector Nine"],
       correct: "0",
-      image: ("assets/images/spacehelmet.jpg")
+      image: ("assets/Images/spacehelmet.jpg")
   }, {
       question: "Where did the band originally form?",
       answer: ["Atlanta, GA", "Santa Cruz, CA", "New York", "Athens, GA"],
       correct: "3",
-      image: ("assets/images/ga-theatre.jpg")
+      image: ("assets/Images/ga-theatre.jpg")
   }, {
       question: "How many members are in the band?",
       answer: ["3", "5", "6", "4"],
       correct: "1",
-      image: ("assets//images/band5.jpg")
+      image: ("assets/Images/band5.jpg")
   }, {
       question: "How many albums has the band released?",
       answer: ["5", "9", "11", "7"],
       correct: "2",
-      image: ("assets//images/axe.jpg")
+      image: ("assets//Images/axe.jpg")
   }, {
       question: "What major artists has STS9 worked with?",
       answer: ["Jay-Z", "Snoop Dogg", "Rick Ross", "all the above"],
       correct: "3",
-      image: ("assets/images/sts9jay.jpg")
+      image: ("assets/Images/sts9jay.jpg")
  
   }];
 
